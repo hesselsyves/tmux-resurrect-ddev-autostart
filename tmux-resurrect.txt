@@ -1,0 +1,29 @@
+pane	0	0	0	:-	0	5CD5163Y3V	:/home/yves/sites/transactions-2	1	zsh	:
+pane	0	1	0	:	0	5CD5163Y3V	:/home/yves	1	zsh	:
+pane	0	2	1	:*	0	OC | Automate running ddev start in restor...	:/home/yves/sites/pnp-api	1	opencode	:opencode
+pane	0	3	0	:	0	5CD5163Y3V	:/home/yves/sites/centraal-request-database	1	zsh	:
+pane	0	4	0	:	0	5CD5163Y3V	:/home/yves/sites/centraal-beheer-cms	1	zsh	:
+pane	0	5	0	:	0	5CD5163Y3V	:/home/yves/sites/order-entry-acertaan	1	zsh	:
+pane	0	6	0	:	0	5CD5163Y3V	:/home/yves/sites/ikwilstarten	1	zsh	:
+pane	0	7	0	:	0	5CD5163Y3V	:/home/yves/sites/zloket	1	zsh	:
+pane	0	8	0	:	0	5CD5163Y3V	:/home/yves/sites/ikwilstarten	0	zsh	:
+pane	0	8	0	:	1	5CD5163Y3V	:/home/yves/sites/order-entry-acertaan	0	zsh	:
+pane	0	8	0	:	2	5CD5163Y3V	:/home/yves/sites/zloket	0	zsh	:
+pane	0	8	0	:	3	5CD5163Y3V	:/home/yves/sites/transactions-2	1	zsh	:
+pane	0	9	0	:	0	5CD5163Y3V	:/home/yves/sites/iwp-rabbitmq	1	zsh	:
+pane	0	10	0	:	0	5CD5163Y3V	:/home/yves	1	zsh	:
+pane	1	0	1	:*	0	5CD5163Y3V	:/home/yves	1	zsh	:
+pane	2	0	1	:*	0	5CD5163Y3V	:/home/yves	1	zsh	:
+pane	3	0	1	:*	0	5CD5163Y3V	:/home/yves	1	zsh	:
+pane	4	0	1	:*	0	5CD5163Y3V	:/home/yves	1	zsh	:
+window	0	0	:trx	0	:-	d0de,252x68,0,0,1	off
+window	0	1	:proxy	0	:	d0df,252x68,0,0,2	off
+window	0	2	:pnp	1	:*	d0e0,252x68,0,0,3	off
+window	0	3	:crd	0	:	d0e1,252x68,0,0,4	off
+window	0	4	:cbc	0	:	d0e2,252x68,0,0,5	off
+window	0	5	:oea	0	:	d0e3,252x68,0,0,6	off
+window	0	6	:iws	0	:	d0e4,252x68,0,0,7	off
+window	0	7	:zloket	0	:	d0e5,252x68,0,0,8	off
+window	0	8	:consumers	0	:	6190,252x68,0,0{126x68,0,0[126x34,0,0,9,126x33,0,35,10],125x68,127,0[125x34,127,0,11,125x33,127,35,12]}	off
+window	0	9	:rabbit	0	:	68a2,252x68,0,0,13	off
+window	0	10	:modules	0	:	68a3,252x68,0,0,14	off
